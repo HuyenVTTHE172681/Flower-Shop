@@ -14,6 +14,13 @@ The main project folder that for learning, practicing and taking assignment scor
 - Boostrap 5
 - Javascript
 **Back-End**
-- Java
+- Java Servlet
+- JDBC - Java Database Connectivity 
 **Database management system**
 - MySQL
+**Tool**
+- Netbeans 17
+- Java JDK 17
+- Apache Tomcat 10.1
+- Visual Studio Code
+- MySQL Workbench
