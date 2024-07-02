@@ -11,13 +11,16 @@ The main project folder that for learning, practicing and taking assignment scor
 **Front-End**
 - HTML
 - CSS
-- Boostrap 5
+- Bootstrap 5
 - Javascript
+  
 **Back-End**
 - Java Servlet
-- JDBC - Java Database Connectivity 
+- JDBC - Java Database Connectivity
+- 
 **Database management system**
 - MySQL
+  
 **Tool**
 - Netbeans 17
 - Java JDK 17
