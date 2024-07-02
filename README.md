@@ -17,7 +17,7 @@ The main project folder that for learning, practicing and taking assignment scor
 **Back-End**
 - Java Servlet
 - JDBC - Java Database Connectivity
-- 
+
 **Database management system**
 - MySQL
   
